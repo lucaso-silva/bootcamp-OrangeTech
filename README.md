@@ -1,4 +1,6 @@
 # Repositório Bootcamp - Orange Tech+
 ## Front End
 
-#### Repositório utilizado para orgaização dos projetos desenvolvidos durante o bootcamp OrangeTech+.
+#### Repositório utilizado para organização dos projetos desenvolvidos durante o bootcamp OrangeTech+ - Dio.
+
+1. Criando primeiro repositório para compartilhar projeto. Desafio: Git/Github :white_check_mark:
